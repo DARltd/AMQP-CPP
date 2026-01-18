@@ -9,7 +9,7 @@
  */
 
 /**
- *  Dependenies
+ *  Dependencies
  */
 #include <boost/asio/io_service.hpp>
 #include <boost/asio/strand.hpp>
